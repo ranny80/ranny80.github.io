@@ -1,5 +1,5 @@
-var loaded = "Website has been successfully loaded";
-var errorMsg = "This page cannot be found.";
+const loaded = "Website has been successfully loaded";
+const errorMsg = "This page cannot be found.";
 
 // Notice that the page has been loaded
 console.log(loaded);
