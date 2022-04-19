@@ -16,6 +16,7 @@ body p {
 	border: 5px solid #dedede;
 }
 
+/* Banner */
 #banner {
 	background-image: url(../images/Projects.png);
 	background-repeat: no-repeat;
@@ -24,6 +25,7 @@ body p {
 	height: 200px;
 }
 
+/* Content */
 #content_area {
 	float: left;
 	width: 750px;
@@ -31,6 +33,7 @@ body p {
 	padding: 10px;
 }
 
+/* Sidebar */
 #sidebar {
 	float: right;
 	width: 250px;
@@ -40,6 +43,7 @@ body p {
 	border: 2px solid #E3E3E3;
 }
 
+/* Footer */
 footer {
 	clear: both;
 	width: auto;
@@ -52,6 +56,7 @@ footer {
 	background-image: url(../images/NavigationFooterPanel.png);
 }
 
+/* Navigation */
 #navigation {
 	height: 60px;
 	border: 3px solid #E3E3E3;
